@@ -1,3 +1,5 @@
-# clock_and_meteostation
+# Weather station
 
-Домашняя метеостанция,получающая текущий прогноз погоды с https://openweathermap.org через API.
+A program that receives current  weather forecast from https://openweathermap.org using API
+
+
